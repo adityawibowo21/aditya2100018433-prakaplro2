@@ -12,7 +12,7 @@ int main(){
 	cout<<"2. Ayam Goreng  : Rp 17.000\n";
 	cout<<"3. Udang Goreng : Rp 19.000\n";
 	cout<<"4. Cumi Goreng  : Rp 20.000\n";
-	cout<<"5. Ayam Bakar   : Rp 25.000\n";
+	cout<<"5. Ayam Bakar   : Rp 25.000\n"; 
 	cout<<"======================================\n";
 	
 	cout<<"Pilih Menu : ";
@@ -64,7 +64,7 @@ int main(){
 			jumongkir=ongkir-potongkir;
 			diskon =total*0.35;
 	}else{
-			cout<<"Anda tidak Mendapatkan diskon"<<endl;
+			cout<<"Anda tidak Mendapatkan  diskon"<<endl;
 	}
 	
 	cout<<endl;
